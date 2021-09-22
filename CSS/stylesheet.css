@@ -1,0 +1,269 @@
+body {
+	background-color: #F7F7F7;  
+
+}      
+
+.risotto{
+float: left;
+position: absolute;
+left: -282px;
+top: 70px;
+}
+
+.risotto p{
+	background-color: #665F5D;
+	color: #EBBC98;
+	transform: rotate(-90deg);
+	font-family: 'Italianno';
+	font-size: 200px;
+	height: 310px;
+	width: 950px;
+	text-align: center;
+	padding: 30px 0;
+}
+
+.steps{
+	color: #EBBC98;
+	font-family: 'Italianno';
+	font-size: 55px;
+}
+
+.images{
+	background-color: #665F5D;
+	position: absolute;
+	top: 900px;
+}
+
+.images img{
+	padding: 0px 35px 0px 35px;
+}
+
+.images p{
+	color: #FFFFFF;
+	text-align: center;
+}
+
+.directions{
+		color: #EBBC98;
+	 font-family: 'Italianno';
+	 font-size: 100px;
+	 position: absolute;
+	 top: 800px;
+	 left: 700px;
+}
+
+.fish{
+	color: #000000;
+	width: 590px;
+	 font-family: 'Open Sans';
+	 font-size: 22px;
+	 position: absolute;
+	 top: 1050px;
+	 left: 700px;
+}
+
+.bird{
+	color: #EBBC98;
+	font-family: 'Italianno';
+	position: absolute;
+	font-size: 70px;
+	top: 1500px;
+	left: 700px;
+
+}
+
+.water{
+	color: #000000;
+	width: 590px;
+	 font-family: 'Open Sans';
+	 font-size: 22px;
+	 position: absolute;
+	 top: 1750px;
+	 left: 700px;
+
+}
+
+
+
+
+.gray{
+float: right;
+position: absolute;
+background-color: #665F5D;
+width: 282px;
+height: 3200px;
+left: 1613px;
+top: 0px;
+z-index: -1;
+
+}
+
+/*
+.cat{
+
+float: left;
+position: relative;
+top: 600px;
+right: 500px;
+
+}
+
+.dog{
+
+float: left;
+position: relative;
+top: 600px;
+right: 500px;
+
+}
+
+.cow{
+
+float: left;
+position: relative;
+top: 600px;
+right: 500px;
+
+}
+
+.monkey{
+
+float: left;
+position: relative;
+top: 600px;
+right: 500px;
+
+}
+
+.bird{
+
+float: left;
+position: relative;
+top: 600px;
+right: 500px;
+
+}
+
+.horse{
+
+float: left;
+position: relative;
+top: 600px;
+right: 500px;
+
+}
+
+.eel{
+
+float: left;
+position: relative;
+top: 600px;
+right: 500px;
+
+}
+
+.shark{
+
+float: left;
+position: relative;
+top: 600px;
+right: 500px;
+
+}*/
+
+.tortise{
+float: right;
+position: absolute;
+font-size: 30px;
+width: 590px;
+left: 700px;
+top: 300px;
+}
+
+
+.ingredients {
+	color: #EBBC98;
+	 font-family: 'Italianno';
+	 font-size: 100px;
+	 position: absolute;
+	 top: 0px;
+	 left: 700px;
+
+}
+
+
+
+.monkey {
+	color: #EBBC98;
+	 font-family: 'Italianno';
+	 font-size: 60px;
+	 position: absolute;
+	 left: 700px;
+	 top: 2300px;
+
+
+}
+
+.snail {
+	color: #FFFFFF;
+	font-family: 'Open Sans';
+	 font-size: 22px;
+	 position: absolute;
+	 left: 700px;
+	 top: 2500px;
+}
+
+
+li {
+	color: #000000;
+
+	 font-family: 'Open Sans';
+	 font-size: 22px;
+
+}
+
+p{
+	font-family: 'Open Sans';
+
+
+}
+
+.chef{ 
+	position: absolute;
+	float: right;
+	top: 2935px;
+	left: 1157px;
+
+
+
+
+
+
+
+
+/* can delete later
+
+
+
+.all_images{
+	position: absolute;
+	left: 1450px;
+}
+
+.all_images{
+	background-color: #665F5D;
+	position: absolute;
+	
+}
+
+.all_images img{
+	padding: 0px 35px 0px 35px;
+}
+
+.all_images p{
+	color: #FFFFFF;
+	text-align: center;
+}
+
+*/
+
